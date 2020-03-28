@@ -1,7 +1,7 @@
 'use strict';
 
 const duplexer = require('plexer');
-const svgicons2svgfont = require('gulp-svgicons2svgfont');
+const svgicons2svgfont = require('gulp-svgicons2svgfont2');
 const cond = require('gulp-cond');
 const filter = require('streamfilter');
 const spawn = require('gulp-spawn');
